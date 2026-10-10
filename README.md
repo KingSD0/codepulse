@@ -4,6 +4,14 @@
 
 The goal of CodePulse is to present GitHub development data in a clean, interactive, and easy-to-understand dashboard.
 
+## Live Demo
+
+[View CodePulse Live](https://codepulse-phi.vercel.app)
+
+## Dashboard Preview
+
+![CodePulse Dashboard](public/images/codepulse-dashboard.png)
+
 ## Features
 
 - **GitHub Integration** – Fetch public repository data using the GitHub REST API.
